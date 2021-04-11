@@ -23,7 +23,7 @@ if($API->Login){
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 		<meta name="description" content="A licensing service">
-		<meta name="author" content="Amir R., https://github.com/weed-web">
+		<meta name="author" content="Amir R., https://github.com/not4il">
 		<title>Nautilus | Login</title>
 		<!-- <link rel="shortcut icon" href="/src/dist/img/favicon.ico" /> -->
 		<!-- Bootstrap core CSS -->
