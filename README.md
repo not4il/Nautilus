@@ -10,7 +10,6 @@ A Simple Licensing Platform
 <p align="center"><img src="https://s17.picofile.com/file/8430420026/pic3.png"></p>
 <br>
 # Software
-<br>
 A simple software in qt5cpp with connecting and disconnecting option to check the license.
 <br>
 github: https://github.com/not4il/NautilusSoftware
